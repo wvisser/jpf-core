@@ -80,6 +80,8 @@ public class ClassFile extends BinaryClassSource {
     InvokeDynamic             // 18
   }
 
+	String blah = "blah";
+	
   //ignore this change just to get codeguru running
   String codeGuru = "blah";
 	
